@@ -10,6 +10,7 @@ aula 1 : Boas Vindas!!!
 https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa/learn/lecture/22206096#overview
 
 -----------------------------------------------------------------------------------------------------------------------
+
 Aula 2 : Instalando Go e Visual Studio Code
 
 https://www.udemy.com/course/aprenda-golang-do-zero-desenvolva-uma-aplicacao-completa/learn/lecture/22116692#overview
